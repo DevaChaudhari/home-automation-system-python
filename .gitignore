@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local/editor files
+.vscode/
+.idea/
+*.tmp
+
+# Generated submission archive
+*.zip
+
