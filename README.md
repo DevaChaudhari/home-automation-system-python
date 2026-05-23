@@ -26,9 +26,9 @@ This system demonstrates how different smart-home components can work together t
 home_automation_assessment/
 ├── README.md
 ├── UML diagram.png
-└── chau0732/
-    ├── chau0732.ipynb
-    └── chau0732.docx
+└── Home Automation System/
+    ├── main.ipynb
+    └── document.docx
 ```
 
 ## Technologies Used
@@ -57,7 +57,7 @@ home_automation_assessment/
 1. Open the notebook:
 
    ```text
-   chau0732/chau0732.ipynb
+   Home Automation System/main.ipynb
    ```
 
 2. Run all cells in Jupyter Notebook, JupyterLab, VS Code, or another notebook environment.
